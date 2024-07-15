@@ -6,3 +6,4 @@ redis==2.10.5
 redis_py_cluster==1.2.0
 protobuf==2.6.1
 protobuf-to-dict==0.1.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
